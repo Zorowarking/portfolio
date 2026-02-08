@@ -64,4 +64,5 @@ Portfolio: **[https://portfolio25-one.vercel.app](https://portfolio25-one.vercel
 
 ## License
 
-MIT License © 2025 Yahia Badr
+MIT License © 2025 Mohd Zaid
+
