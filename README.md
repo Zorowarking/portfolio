@@ -65,3 +65,7 @@ Portfolio:
 ## License
 
 MIT License © 2025 Mohd Zaid
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3100ec723d240ffa626878afdb5db22346080ce3
